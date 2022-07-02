@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7c718cd-26db-44be-8719-bdc4adffb5a9" name="Default" comment="" />
+    <ignored path="kafka.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kafka" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="KafkaConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="742" column="31" selection-start-line="742" selection-start-column="31" selection-end-line="742" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerCoordinator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#5840#5841#0" expanded="false" />
+                <element signature="e#5893#5894#0" expanded="false" />
+                <element signature="e#19557#19558#0" expanded="false" />
+                <element signature="e#19605#19606#0" expanded="false" />
+                <element signature="e#19642#19643#0" expanded="false" />
+                <element signature="e#19719#19720#0" expanded="false" />
+                <element signature="e#19763#19764#0" expanded="false" />
+                <element signature="e#19812#19813#0" expanded="false" />
+                <element signature="e#23813#23814#0" expanded="false" />
+                <element signature="e#23859#23860#0" expanded="false" />
+                <element signature="e#33904#33905#0" expanded="false" />
+                <element signature="e#33997#33998#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractCoordinator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4092">
+              <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#9556#9557#0" expanded="false" />
+                <element signature="e#9591#9592#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicPartition.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/TopicPartition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#1219#1220#0" expanded="false" />
+                <element signature="e#1251#1252#0" expanded="false" />
+                <element signature="e#1280#1281#0" expanded="false" />
+                <element signature="e#1308#1309#0" expanded="false" />
+                <element signature="e#2218#2219#0" expanded="false" />
+                <element signature="e#2264#2265#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Metadata.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/Metadata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2167#2168#0" expanded="false" />
+                <element signature="e#2210#2211#0" expanded="false" />
+                <element signature="e#3104#3105#0" expanded="false" />
+                <element signature="e#3139#3140#0" expanded="false" />
+                <element signature="e#3254#3255#0" expanded="false" />
+                <element signature="e#3287#3288#0" expanded="false" />
+                <element signature="e#4320#4321#0" expanded="false" />
+                <element signature="e#4358#4359#0" expanded="false" />
+                <element signature="e#5695#5696#0" expanded="false" />
+                <element signature="e#5750#5751#0" expanded="false" />
+                <element signature="e#5974#5975#0" expanded="false" />
+                <element signature="e#6024#6025#0" expanded="false" />
+                <element signature="e#6894#6895#0" expanded="false" />
+                <element signature="e#6934#6935#0" expanded="false" />
+                <element signature="e#7039#7040#0" expanded="false" />
+                <element signature="e#7074#7075#0" expanded="false" />
+                <element signature="e#7201#7202#0" expanded="false" />
+                <element signature="e#7252#7253#0" expanded="false" />
+                <element signature="e#7346#7347#0" expanded="false" />
+                <element signature="e#7385#7386#0" expanded="false" />
+                <element signature="e#7897#7898#0" expanded="false" />
+                <element signature="e#7949#7950#0" expanded="false" />
+                <element signature="e#8098#8099#0" expanded="false" />
+                <element signature="e#8142#8143#0" expanded="false" />
+                <element signature="e#8279#8280#0" expanded="false" />
+                <element signature="e#8326#8327#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubscriptionState.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5511">
+              <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#8808#8809#0" expanded="false" />
+                <element signature="e#8885#8886#0" expanded="false" />
+                <element signature="e#9215#9216#0" expanded="false" />
+                <element signature="e#9260#9261#0" expanded="false" />
+                <element signature="e#9301#9302#0" expanded="false" />
+                <element signature="e#9341#9342#0" expanded="false" />
+                <element signature="e#10529#10530#0" expanded="false" />
+                <element signature="e#10574#10575#0" expanded="false" />
+                <element signature="e#10922#10923#0" expanded="false" />
+                <element signature="e#10973#10974#0" expanded="false" />
+                <element signature="e#11034#11035#0" expanded="false" />
+                <element signature="e#11084#11085#0" expanded="false" />
+                <element signature="e#11124#11125#0" expanded="false" />
+                <element signature="e#11178#11179#0" expanded="false" />
+                <element signature="e#11223#11224#0" expanded="false" />
+                <element signature="e#11277#11278#0" expanded="false" />
+                <element signature="e#11315#11316#0" expanded="false" />
+                <element signature="e#11370#11371#0" expanded="false" />
+                <element signature="e#11426#11427#0" expanded="false" />
+                <element signature="e#11472#11473#0" expanded="false" />
+                <element signature="e#11527#11528#0" expanded="false" />
+                <element signature="e#11574#11575#0" expanded="false" />
+                <element signature="e#12158#12159#0" expanded="false" />
+                <element signature="e#12208#12209#0" expanded="false" />
+                <element signature="e#12255#12256#0" expanded="false" />
+                <element signature="e#12304#12305#0" expanded="false" />
+                <element signature="e#13009#13010#0" expanded="false" />
+                <element signature="e#13073#13074#0" expanded="false" />
+                <element signature="e#13125#13126#0" expanded="false" />
+                <element signature="e#13196#13197#0" expanded="false" />
+                <element signature="e#13264#13265#0" expanded="false" />
+                <element signature="e#13327#13328#0" expanded="false" />
+                <element signature="e#14052#14053#0" expanded="false" />
+                <element signature="e#14104#14105#0" expanded="false" />
+                <element signature="e#14156#14157#0" expanded="false" />
+                <element signature="e#14205#14206#0" expanded="false" />
+                <element signature="e#14255#14256#0" expanded="false" />
+                <element signature="e#14320#14321#0" expanded="false" />
+                <element signature="e#14373#14374#0" expanded="false" />
+                <element signature="e#14445#14446#0" expanded="false" />
+                <element signature="e#14489#14490#0" expanded="false" />
+                <element signature="e#14530#14531#0" expanded="false" />
+                <element signature="e#14575#14576#0" expanded="false" />
+                <element signature="e#14617#14618#0" expanded="false" />
+                <element signature="e#14677#14678#0" expanded="false" />
+                <element signature="e#14743#14744#0" expanded="false" />
+                <element signature="e#14794#14795#0" expanded="false" />
+                <element signature="e#14825#14826#0" expanded="false" />
+                <element signature="e#15580#15581#0" expanded="false" />
+                <element signature="e#15632#15633#0" expanded="false" />
+                <element signature="e#15677#15678#0" expanded="false" />
+                <element signature="e#15724#15725#0" expanded="false" />
+                <element signature="e#16151#16152#0" expanded="false" />
+                <element signature="e#16198#16199#0" expanded="false" />
+                <element signature="e#16230#16231#0" expanded="false" />
+                <element signature="e#16272#16273#0" expanded="false" />
+                <element signature="e#16305#16306#0" expanded="false" />
+                <element signature="e#16348#16349#0" expanded="false" />
+                <element signature="e#16389#16390#0" expanded="false" />
+                <element signature="e#16449#16450#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerGroupApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1475724054805" expanded="true" signature="1707:1918" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1773#1789#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BatchProducerApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BatchProducerApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProducerApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProducerApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class" />
+        <option value="$PROJECT_DIR$/src/main/java/MyProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyProducerApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProducerApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BatchProducerApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyConsumerGroupApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyConsumerApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConsumerApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="3866" />
+    <option name="height" value="2426" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Dev\NodeJS\node.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="MyConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MyConsumerApp" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kafka" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kafka" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Multirun" factoryName="Multirun" separateTabs="true" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.MyConsumerApp" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.MyConsumerApp" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7c718cd-26db-44be-8719-bdc4adffb5a9" name="Default" comment="" />
+      <created>1472696812702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472696812702</updated>
+      <workItem from="1472696817730" duration="29000" />
+      <workItem from="1472696943641" duration="5934000" />
+      <workItem from="1472784930753" duration="9735000" />
+      <workItem from="1473392572138" duration="397000" />
+      <workItem from="1473665977184" duration="31000" />
+      <workItem from="1473666084278" duration="257000" />
+      <workItem from="1473768472321" duration="20000" />
+      <workItem from="1473835493102" duration="4112000" />
+      <workItem from="1474679775977" duration="2561000" />
+      <workItem from="1474781106872" duration="3420000" />
+      <workItem from="1475091357958" duration="6651000" />
+      <workItem from="1475525975809" duration="750000" />
+      <workItem from="1475590468182" duration="4333000" />
+      <workItem from="1475713166186" duration="2533000" />
+      <workItem from="1475717034858" duration="7303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48066000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="-13" width="3866" height="2426" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872292" sideWeight="0.48541668" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872292" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18896589" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25506395" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.48541668" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.50625" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20948827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25586355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5840#5841#0" expanded="false" />
+            <element signature="e#5893#5894#0" expanded="false" />
+            <element signature="e#19557#19558#0" expanded="false" />
+            <element signature="e#19605#19606#0" expanded="false" />
+            <element signature="e#19642#19643#0" expanded="false" />
+            <element signature="e#19719#19720#0" expanded="false" />
+            <element signature="e#19763#19764#0" expanded="false" />
+            <element signature="e#19812#19813#0" expanded="false" />
+            <element signature="e#23813#23814#0" expanded="false" />
+            <element signature="e#23859#23860#0" expanded="false" />
+            <element signature="e#33904#33905#0" expanded="false" />
+            <element signature="e#33997#33998#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5775">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9556#9557#0" expanded="false" />
+            <element signature="e#9591#9592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/TopicPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1219#1220#0" expanded="false" />
+            <element signature="e#1251#1252#0" expanded="false" />
+            <element signature="e#1280#1281#0" expanded="false" />
+            <element signature="e#1308#1309#0" expanded="false" />
+            <element signature="e#2218#2219#0" expanded="false" />
+            <element signature="e#2264#2265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/Metadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2167#2168#0" expanded="false" />
+            <element signature="e#2210#2211#0" expanded="false" />
+            <element signature="e#3104#3105#0" expanded="false" />
+            <element signature="e#3139#3140#0" expanded="false" />
+            <element signature="e#3254#3255#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#4320#4321#0" expanded="false" />
+            <element signature="e#4358#4359#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#5974#5975#0" expanded="false" />
+            <element signature="e#6024#6025#0" expanded="false" />
+            <element signature="e#6894#6895#0" expanded="false" />
+            <element signature="e#6934#6935#0" expanded="false" />
+            <element signature="e#7039#7040#0" expanded="false" />
+            <element signature="e#7074#7075#0" expanded="false" />
+            <element signature="e#7201#7202#0" expanded="false" />
+            <element signature="e#7252#7253#0" expanded="false" />
+            <element signature="e#7346#7347#0" expanded="false" />
+            <element signature="e#7385#7386#0" expanded="false" />
+            <element signature="e#7897#7898#0" expanded="false" />
+            <element signature="e#7949#7950#0" expanded="false" />
+            <element signature="e#8098#8099#0" expanded="false" />
+            <element signature="e#8142#8143#0" expanded="false" />
+            <element signature="e#8279#8280#0" expanded="false" />
+            <element signature="e#8326#8327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5511">
+          <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8808#8809#0" expanded="false" />
+            <element signature="e#8885#8886#0" expanded="false" />
+            <element signature="e#9215#9216#0" expanded="false" />
+            <element signature="e#9260#9261#0" expanded="false" />
+            <element signature="e#9301#9302#0" expanded="false" />
+            <element signature="e#9341#9342#0" expanded="false" />
+            <element signature="e#10529#10530#0" expanded="false" />
+            <element signature="e#10574#10575#0" expanded="false" />
+            <element signature="e#10922#10923#0" expanded="false" />
+            <element signature="e#10973#10974#0" expanded="false" />
+            <element signature="e#11034#11035#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#11124#11125#0" expanded="false" />
+            <element signature="e#11178#11179#0" expanded="false" />
+            <element signature="e#11223#11224#0" expanded="false" />
+            <element signature="e#11277#11278#0" expanded="false" />
+            <element signature="e#11315#11316#0" expanded="false" />
+            <element signature="e#11370#11371#0" expanded="false" />
+            <element signature="e#11426#11427#0" expanded="false" />
+            <element signature="e#11472#11473#0" expanded="false" />
+            <element signature="e#11527#11528#0" expanded="false" />
+            <element signature="e#11574#11575#0" expanded="false" />
+            <element signature="e#12158#12159#0" expanded="false" />
+            <element signature="e#12208#12209#0" expanded="false" />
+            <element signature="e#12255#12256#0" expanded="false" />
+            <element signature="e#12304#12305#0" expanded="false" />
+            <element signature="e#13009#13010#0" expanded="false" />
+            <element signature="e#13073#13074#0" expanded="false" />
+            <element signature="e#13125#13126#0" expanded="false" />
+            <element signature="e#13196#13197#0" expanded="false" />
+            <element signature="e#13264#13265#0" expanded="false" />
+            <element signature="e#13327#13328#0" expanded="false" />
+            <element signature="e#14052#14053#0" expanded="false" />
+            <element signature="e#14104#14105#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14205#14206#0" expanded="false" />
+            <element signature="e#14255#14256#0" expanded="false" />
+            <element signature="e#14320#14321#0" expanded="false" />
+            <element signature="e#14373#14374#0" expanded="false" />
+            <element signature="e#14445#14446#0" expanded="false" />
+            <element signature="e#14489#14490#0" expanded="false" />
+            <element signature="e#14530#14531#0" expanded="false" />
+            <element signature="e#14575#14576#0" expanded="false" />
+            <element signature="e#14617#14618#0" expanded="false" />
+            <element signature="e#14677#14678#0" expanded="false" />
+            <element signature="e#14743#14744#0" expanded="false" />
+            <element signature="e#14794#14795#0" expanded="false" />
+            <element signature="e#14825#14826#0" expanded="false" />
+            <element signature="e#15580#15581#0" expanded="false" />
+            <element signature="e#15632#15633#0" expanded="false" />
+            <element signature="e#15677#15678#0" expanded="false" />
+            <element signature="e#15724#15725#0" expanded="false" />
+            <element signature="e#16151#16152#0" expanded="false" />
+            <element signature="e#16198#16199#0" expanded="false" />
+            <element signature="e#16230#16231#0" expanded="false" />
+            <element signature="e#16272#16273#0" expanded="false" />
+            <element signature="e#16305#16306#0" expanded="false" />
+            <element signature="e#16348#16349#0" expanded="false" />
+            <element signature="e#16389#16390#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475724054805" expanded="true" signature="1707:1918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26004">
+          <caret line="853" column="36" selection-start-line="853" selection-start-column="36" selection-end-line="853" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5840#5841#0" expanded="false" />
+            <element signature="e#5893#5894#0" expanded="false" />
+            <element signature="e#19557#19558#0" expanded="false" />
+            <element signature="e#19605#19606#0" expanded="false" />
+            <element signature="e#19642#19643#0" expanded="false" />
+            <element signature="e#19719#19720#0" expanded="false" />
+            <element signature="e#19763#19764#0" expanded="false" />
+            <element signature="e#19812#19813#0" expanded="false" />
+            <element signature="e#23813#23814#0" expanded="false" />
+            <element signature="e#23859#23860#0" expanded="false" />
+            <element signature="e#33904#33905#0" expanded="false" />
+            <element signature="e#33997#33998#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4092">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9556#9557#0" expanded="false" />
+            <element signature="e#9591#9592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/TopicPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1219#1220#0" expanded="false" />
+            <element signature="e#1251#1252#0" expanded="false" />
+            <element signature="e#1280#1281#0" expanded="false" />
+            <element signature="e#1308#1309#0" expanded="false" />
+            <element signature="e#2218#2219#0" expanded="false" />
+            <element signature="e#2264#2265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/Metadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2167#2168#0" expanded="false" />
+            <element signature="e#2210#2211#0" expanded="false" />
+            <element signature="e#3104#3105#0" expanded="false" />
+            <element signature="e#3139#3140#0" expanded="false" />
+            <element signature="e#3254#3255#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#4320#4321#0" expanded="false" />
+            <element signature="e#4358#4359#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#5974#5975#0" expanded="false" />
+            <element signature="e#6024#6025#0" expanded="false" />
+            <element signature="e#6894#6895#0" expanded="false" />
+            <element signature="e#6934#6935#0" expanded="false" />
+            <element signature="e#7039#7040#0" expanded="false" />
+            <element signature="e#7074#7075#0" expanded="false" />
+            <element signature="e#7201#7202#0" expanded="false" />
+            <element signature="e#7252#7253#0" expanded="false" />
+            <element signature="e#7346#7347#0" expanded="false" />
+            <element signature="e#7385#7386#0" expanded="false" />
+            <element signature="e#7897#7898#0" expanded="false" />
+            <element signature="e#7949#7950#0" expanded="false" />
+            <element signature="e#8098#8099#0" expanded="false" />
+            <element signature="e#8142#8143#0" expanded="false" />
+            <element signature="e#8279#8280#0" expanded="false" />
+            <element signature="e#8326#8327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5511">
+          <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8808#8809#0" expanded="false" />
+            <element signature="e#8885#8886#0" expanded="false" />
+            <element signature="e#9215#9216#0" expanded="false" />
+            <element signature="e#9260#9261#0" expanded="false" />
+            <element signature="e#9301#9302#0" expanded="false" />
+            <element signature="e#9341#9342#0" expanded="false" />
+            <element signature="e#10529#10530#0" expanded="false" />
+            <element signature="e#10574#10575#0" expanded="false" />
+            <element signature="e#10922#10923#0" expanded="false" />
+            <element signature="e#10973#10974#0" expanded="false" />
+            <element signature="e#11034#11035#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#11124#11125#0" expanded="false" />
+            <element signature="e#11178#11179#0" expanded="false" />
+            <element signature="e#11223#11224#0" expanded="false" />
+            <element signature="e#11277#11278#0" expanded="false" />
+            <element signature="e#11315#11316#0" expanded="false" />
+            <element signature="e#11370#11371#0" expanded="false" />
+            <element signature="e#11426#11427#0" expanded="false" />
+            <element signature="e#11472#11473#0" expanded="false" />
+            <element signature="e#11527#11528#0" expanded="false" />
+            <element signature="e#11574#11575#0" expanded="false" />
+            <element signature="e#12158#12159#0" expanded="false" />
+            <element signature="e#12208#12209#0" expanded="false" />
+            <element signature="e#12255#12256#0" expanded="false" />
+            <element signature="e#12304#12305#0" expanded="false" />
+            <element signature="e#13009#13010#0" expanded="false" />
+            <element signature="e#13073#13074#0" expanded="false" />
+            <element signature="e#13125#13126#0" expanded="false" />
+            <element signature="e#13196#13197#0" expanded="false" />
+            <element signature="e#13264#13265#0" expanded="false" />
+            <element signature="e#13327#13328#0" expanded="false" />
+            <element signature="e#14052#14053#0" expanded="false" />
+            <element signature="e#14104#14105#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14205#14206#0" expanded="false" />
+            <element signature="e#14255#14256#0" expanded="false" />
+            <element signature="e#14320#14321#0" expanded="false" />
+            <element signature="e#14373#14374#0" expanded="false" />
+            <element signature="e#14445#14446#0" expanded="false" />
+            <element signature="e#14489#14490#0" expanded="false" />
+            <element signature="e#14530#14531#0" expanded="false" />
+            <element signature="e#14575#14576#0" expanded="false" />
+            <element signature="e#14617#14618#0" expanded="false" />
+            <element signature="e#14677#14678#0" expanded="false" />
+            <element signature="e#14743#14744#0" expanded="false" />
+            <element signature="e#14794#14795#0" expanded="false" />
+            <element signature="e#14825#14826#0" expanded="false" />
+            <element signature="e#15580#15581#0" expanded="false" />
+            <element signature="e#15632#15633#0" expanded="false" />
+            <element signature="e#15677#15678#0" expanded="false" />
+            <element signature="e#15724#15725#0" expanded="false" />
+            <element signature="e#16151#16152#0" expanded="false" />
+            <element signature="e#16198#16199#0" expanded="false" />
+            <element signature="e#16230#16231#0" expanded="false" />
+            <element signature="e#16272#16273#0" expanded="false" />
+            <element signature="e#16305#16306#0" expanded="false" />
+            <element signature="e#16348#16349#0" expanded="false" />
+            <element signature="e#16389#16390#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475724054805" expanded="true" signature="1707:1918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26004">
+          <caret line="853" column="36" selection-start-line="853" selection-start-column="36" selection-end-line="853" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5840#5841#0" expanded="false" />
+            <element signature="e#5893#5894#0" expanded="false" />
+            <element signature="e#19557#19558#0" expanded="false" />
+            <element signature="e#19605#19606#0" expanded="false" />
+            <element signature="e#19642#19643#0" expanded="false" />
+            <element signature="e#19719#19720#0" expanded="false" />
+            <element signature="e#19763#19764#0" expanded="false" />
+            <element signature="e#19812#19813#0" expanded="false" />
+            <element signature="e#23813#23814#0" expanded="false" />
+            <element signature="e#23859#23860#0" expanded="false" />
+            <element signature="e#33904#33905#0" expanded="false" />
+            <element signature="e#33997#33998#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5775">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9556#9557#0" expanded="false" />
+            <element signature="e#9591#9592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/TopicPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1219#1220#0" expanded="false" />
+            <element signature="e#1251#1252#0" expanded="false" />
+            <element signature="e#1280#1281#0" expanded="false" />
+            <element signature="e#1308#1309#0" expanded="false" />
+            <element signature="e#2218#2219#0" expanded="false" />
+            <element signature="e#2264#2265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/Metadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2167#2168#0" expanded="false" />
+            <element signature="e#2210#2211#0" expanded="false" />
+            <element signature="e#3104#3105#0" expanded="false" />
+            <element signature="e#3139#3140#0" expanded="false" />
+            <element signature="e#3254#3255#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#4320#4321#0" expanded="false" />
+            <element signature="e#4358#4359#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#5974#5975#0" expanded="false" />
+            <element signature="e#6024#6025#0" expanded="false" />
+            <element signature="e#6894#6895#0" expanded="false" />
+            <element signature="e#6934#6935#0" expanded="false" />
+            <element signature="e#7039#7040#0" expanded="false" />
+            <element signature="e#7074#7075#0" expanded="false" />
+            <element signature="e#7201#7202#0" expanded="false" />
+            <element signature="e#7252#7253#0" expanded="false" />
+            <element signature="e#7346#7347#0" expanded="false" />
+            <element signature="e#7385#7386#0" expanded="false" />
+            <element signature="e#7897#7898#0" expanded="false" />
+            <element signature="e#7949#7950#0" expanded="false" />
+            <element signature="e#8098#8099#0" expanded="false" />
+            <element signature="e#8142#8143#0" expanded="false" />
+            <element signature="e#8279#8280#0" expanded="false" />
+            <element signature="e#8326#8327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5511">
+          <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8808#8809#0" expanded="false" />
+            <element signature="e#8885#8886#0" expanded="false" />
+            <element signature="e#9215#9216#0" expanded="false" />
+            <element signature="e#9260#9261#0" expanded="false" />
+            <element signature="e#9301#9302#0" expanded="false" />
+            <element signature="e#9341#9342#0" expanded="false" />
+            <element signature="e#10529#10530#0" expanded="false" />
+            <element signature="e#10574#10575#0" expanded="false" />
+            <element signature="e#10922#10923#0" expanded="false" />
+            <element signature="e#10973#10974#0" expanded="false" />
+            <element signature="e#11034#11035#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#11124#11125#0" expanded="false" />
+            <element signature="e#11178#11179#0" expanded="false" />
+            <element signature="e#11223#11224#0" expanded="false" />
+            <element signature="e#11277#11278#0" expanded="false" />
+            <element signature="e#11315#11316#0" expanded="false" />
+            <element signature="e#11370#11371#0" expanded="false" />
+            <element signature="e#11426#11427#0" expanded="false" />
+            <element signature="e#11472#11473#0" expanded="false" />
+            <element signature="e#11527#11528#0" expanded="false" />
+            <element signature="e#11574#11575#0" expanded="false" />
+            <element signature="e#12158#12159#0" expanded="false" />
+            <element signature="e#12208#12209#0" expanded="false" />
+            <element signature="e#12255#12256#0" expanded="false" />
+            <element signature="e#12304#12305#0" expanded="false" />
+            <element signature="e#13009#13010#0" expanded="false" />
+            <element signature="e#13073#13074#0" expanded="false" />
+            <element signature="e#13125#13126#0" expanded="false" />
+            <element signature="e#13196#13197#0" expanded="false" />
+            <element signature="e#13264#13265#0" expanded="false" />
+            <element signature="e#13327#13328#0" expanded="false" />
+            <element signature="e#14052#14053#0" expanded="false" />
+            <element signature="e#14104#14105#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14205#14206#0" expanded="false" />
+            <element signature="e#14255#14256#0" expanded="false" />
+            <element signature="e#14320#14321#0" expanded="false" />
+            <element signature="e#14373#14374#0" expanded="false" />
+            <element signature="e#14445#14446#0" expanded="false" />
+            <element signature="e#14489#14490#0" expanded="false" />
+            <element signature="e#14530#14531#0" expanded="false" />
+            <element signature="e#14575#14576#0" expanded="false" />
+            <element signature="e#14617#14618#0" expanded="false" />
+            <element signature="e#14677#14678#0" expanded="false" />
+            <element signature="e#14743#14744#0" expanded="false" />
+            <element signature="e#14794#14795#0" expanded="false" />
+            <element signature="e#14825#14826#0" expanded="false" />
+            <element signature="e#15580#15581#0" expanded="false" />
+            <element signature="e#15632#15633#0" expanded="false" />
+            <element signature="e#15677#15678#0" expanded="false" />
+            <element signature="e#15724#15725#0" expanded="false" />
+            <element signature="e#16151#16152#0" expanded="false" />
+            <element signature="e#16198#16199#0" expanded="false" />
+            <element signature="e#16230#16231#0" expanded="false" />
+            <element signature="e#16272#16273#0" expanded="false" />
+            <element signature="e#16305#16306#0" expanded="false" />
+            <element signature="e#16348#16349#0" expanded="false" />
+            <element signature="e#16389#16390#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475724054805" expanded="true" signature="1707:1918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13396">
+          <caret line="853" column="36" selection-start-line="853" selection-start-column="36" selection-end-line="853" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5840#5841#0" expanded="false" />
+            <element signature="e#5893#5894#0" expanded="false" />
+            <element signature="e#19557#19558#0" expanded="false" />
+            <element signature="e#19605#19606#0" expanded="false" />
+            <element signature="e#19642#19643#0" expanded="false" />
+            <element signature="e#19719#19720#0" expanded="false" />
+            <element signature="e#19763#19764#0" expanded="false" />
+            <element signature="e#19812#19813#0" expanded="false" />
+            <element signature="e#23813#23814#0" expanded="false" />
+            <element signature="e#23859#23860#0" expanded="false" />
+            <element signature="e#33904#33905#0" expanded="false" />
+            <element signature="e#33997#33998#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9556#9557#0" expanded="false" />
+            <element signature="e#9591#9592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/TopicPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1219#1220#0" expanded="false" />
+            <element signature="e#1251#1252#0" expanded="false" />
+            <element signature="e#1280#1281#0" expanded="false" />
+            <element signature="e#1308#1309#0" expanded="false" />
+            <element signature="e#2218#2219#0" expanded="false" />
+            <element signature="e#2264#2265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/Metadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2167#2168#0" expanded="false" />
+            <element signature="e#2210#2211#0" expanded="false" />
+            <element signature="e#3104#3105#0" expanded="false" />
+            <element signature="e#3139#3140#0" expanded="false" />
+            <element signature="e#3254#3255#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#4320#4321#0" expanded="false" />
+            <element signature="e#4358#4359#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#5974#5975#0" expanded="false" />
+            <element signature="e#6024#6025#0" expanded="false" />
+            <element signature="e#6894#6895#0" expanded="false" />
+            <element signature="e#6934#6935#0" expanded="false" />
+            <element signature="e#7039#7040#0" expanded="false" />
+            <element signature="e#7074#7075#0" expanded="false" />
+            <element signature="e#7201#7202#0" expanded="false" />
+            <element signature="e#7252#7253#0" expanded="false" />
+            <element signature="e#7346#7347#0" expanded="false" />
+            <element signature="e#7385#7386#0" expanded="false" />
+            <element signature="e#7897#7898#0" expanded="false" />
+            <element signature="e#7949#7950#0" expanded="false" />
+            <element signature="e#8098#8099#0" expanded="false" />
+            <element signature="e#8142#8143#0" expanded="false" />
+            <element signature="e#8279#8280#0" expanded="false" />
+            <element signature="e#8326#8327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8808#8809#0" expanded="false" />
+            <element signature="e#8885#8886#0" expanded="false" />
+            <element signature="e#9215#9216#0" expanded="false" />
+            <element signature="e#9260#9261#0" expanded="false" />
+            <element signature="e#9301#9302#0" expanded="false" />
+            <element signature="e#9341#9342#0" expanded="false" />
+            <element signature="e#10529#10530#0" expanded="false" />
+            <element signature="e#10574#10575#0" expanded="false" />
+            <element signature="e#10922#10923#0" expanded="false" />
+            <element signature="e#10973#10974#0" expanded="false" />
+            <element signature="e#11034#11035#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#11124#11125#0" expanded="false" />
+            <element signature="e#11178#11179#0" expanded="false" />
+            <element signature="e#11223#11224#0" expanded="false" />
+            <element signature="e#11277#11278#0" expanded="false" />
+            <element signature="e#11315#11316#0" expanded="false" />
+            <element signature="e#11370#11371#0" expanded="false" />
+            <element signature="e#11426#11427#0" expanded="false" />
+            <element signature="e#11472#11473#0" expanded="false" />
+            <element signature="e#11527#11528#0" expanded="false" />
+            <element signature="e#11574#11575#0" expanded="false" />
+            <element signature="e#12158#12159#0" expanded="false" />
+            <element signature="e#12208#12209#0" expanded="false" />
+            <element signature="e#12255#12256#0" expanded="false" />
+            <element signature="e#12304#12305#0" expanded="false" />
+            <element signature="e#13009#13010#0" expanded="false" />
+            <element signature="e#13073#13074#0" expanded="false" />
+            <element signature="e#13125#13126#0" expanded="false" />
+            <element signature="e#13196#13197#0" expanded="false" />
+            <element signature="e#13264#13265#0" expanded="false" />
+            <element signature="e#13327#13328#0" expanded="false" />
+            <element signature="e#14052#14053#0" expanded="false" />
+            <element signature="e#14104#14105#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14205#14206#0" expanded="false" />
+            <element signature="e#14255#14256#0" expanded="false" />
+            <element signature="e#14320#14321#0" expanded="false" />
+            <element signature="e#14373#14374#0" expanded="false" />
+            <element signature="e#14445#14446#0" expanded="false" />
+            <element signature="e#14489#14490#0" expanded="false" />
+            <element signature="e#14530#14531#0" expanded="false" />
+            <element signature="e#14575#14576#0" expanded="false" />
+            <element signature="e#14617#14618#0" expanded="false" />
+            <element signature="e#14677#14678#0" expanded="false" />
+            <element signature="e#14743#14744#0" expanded="false" />
+            <element signature="e#14794#14795#0" expanded="false" />
+            <element signature="e#14825#14826#0" expanded="false" />
+            <element signature="e#15580#15581#0" expanded="false" />
+            <element signature="e#15632#15633#0" expanded="false" />
+            <element signature="e#15677#15678#0" expanded="false" />
+            <element signature="e#15724#15725#0" expanded="false" />
+            <element signature="e#16151#16152#0" expanded="false" />
+            <element signature="e#16198#16199#0" expanded="false" />
+            <element signature="e#16230#16231#0" expanded="false" />
+            <element signature="e#16272#16273#0" expanded="false" />
+            <element signature="e#16305#16306#0" expanded="false" />
+            <element signature="e#16348#16349#0" expanded="false" />
+            <element signature="e#16389#16390#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475724054805" expanded="true" signature="1707:1918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14824">
+          <caret line="872" column="19" selection-start-line="872" selection-start-column="19" selection-end-line="872" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475724054805" expanded="true" signature="1707:1918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1258">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyProducer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/OffsetAndMetadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/Metadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2167#2168#0" expanded="false" />
+            <element signature="e#2210#2211#0" expanded="false" />
+            <element signature="e#3104#3105#0" expanded="false" />
+            <element signature="e#3139#3140#0" expanded="false" />
+            <element signature="e#3254#3255#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#4320#4321#0" expanded="false" />
+            <element signature="e#4358#4359#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#5974#5975#0" expanded="false" />
+            <element signature="e#6024#6025#0" expanded="false" />
+            <element signature="e#6894#6895#0" expanded="false" />
+            <element signature="e#6934#6935#0" expanded="false" />
+            <element signature="e#7039#7040#0" expanded="false" />
+            <element signature="e#7074#7075#0" expanded="false" />
+            <element signature="e#7201#7202#0" expanded="false" />
+            <element signature="e#7252#7253#0" expanded="false" />
+            <element signature="e#7346#7347#0" expanded="false" />
+            <element signature="e#7385#7386#0" expanded="false" />
+            <element signature="e#7897#7898#0" expanded="false" />
+            <element signature="e#7949#7950#0" expanded="false" />
+            <element signature="e#8098#8099#0" expanded="false" />
+            <element signature="e#8142#8143#0" expanded="false" />
+            <element signature="e#8279#8280#0" expanded="false" />
+            <element signature="e#8326#8327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/common/TopicPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1219#1220#0" expanded="false" />
+            <element signature="e#1251#1252#0" expanded="false" />
+            <element signature="e#1280#1281#0" expanded="false" />
+            <element signature="e#1308#1309#0" expanded="false" />
+            <element signature="e#2218#2219#0" expanded="false" />
+            <element signature="e#2264#2265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerRecords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="45" column="73" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4092">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9556#9557#0" expanded="false" />
+            <element signature="e#9591#9592#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5840#5841#0" expanded="false" />
+            <element signature="e#5893#5894#0" expanded="false" />
+            <element signature="e#19557#19558#0" expanded="false" />
+            <element signature="e#19605#19606#0" expanded="false" />
+            <element signature="e#19642#19643#0" expanded="false" />
+            <element signature="e#19719#19720#0" expanded="false" />
+            <element signature="e#19763#19764#0" expanded="false" />
+            <element signature="e#19812#19813#0" expanded="false" />
+            <element signature="e#23813#23814#0" expanded="false" />
+            <element signature="e#23859#23860#0" expanded="false" />
+            <element signature="e#33904#33905#0" expanded="false" />
+            <element signature="e#33997#33998#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5511">
+          <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8808#8809#0" expanded="false" />
+            <element signature="e#8885#8886#0" expanded="false" />
+            <element signature="e#9215#9216#0" expanded="false" />
+            <element signature="e#9260#9261#0" expanded="false" />
+            <element signature="e#9301#9302#0" expanded="false" />
+            <element signature="e#9341#9342#0" expanded="false" />
+            <element signature="e#10529#10530#0" expanded="false" />
+            <element signature="e#10574#10575#0" expanded="false" />
+            <element signature="e#10922#10923#0" expanded="false" />
+            <element signature="e#10973#10974#0" expanded="false" />
+            <element signature="e#11034#11035#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#11124#11125#0" expanded="false" />
+            <element signature="e#11178#11179#0" expanded="false" />
+            <element signature="e#11223#11224#0" expanded="false" />
+            <element signature="e#11277#11278#0" expanded="false" />
+            <element signature="e#11315#11316#0" expanded="false" />
+            <element signature="e#11370#11371#0" expanded="false" />
+            <element signature="e#11426#11427#0" expanded="false" />
+            <element signature="e#11472#11473#0" expanded="false" />
+            <element signature="e#11527#11528#0" expanded="false" />
+            <element signature="e#11574#11575#0" expanded="false" />
+            <element signature="e#12158#12159#0" expanded="false" />
+            <element signature="e#12208#12209#0" expanded="false" />
+            <element signature="e#12255#12256#0" expanded="false" />
+            <element signature="e#12304#12305#0" expanded="false" />
+            <element signature="e#13009#13010#0" expanded="false" />
+            <element signature="e#13073#13074#0" expanded="false" />
+            <element signature="e#13125#13126#0" expanded="false" />
+            <element signature="e#13196#13197#0" expanded="false" />
+            <element signature="e#13264#13265#0" expanded="false" />
+            <element signature="e#13327#13328#0" expanded="false" />
+            <element signature="e#14052#14053#0" expanded="false" />
+            <element signature="e#14104#14105#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14205#14206#0" expanded="false" />
+            <element signature="e#14255#14256#0" expanded="false" />
+            <element signature="e#14320#14321#0" expanded="false" />
+            <element signature="e#14373#14374#0" expanded="false" />
+            <element signature="e#14445#14446#0" expanded="false" />
+            <element signature="e#14489#14490#0" expanded="false" />
+            <element signature="e#14530#14531#0" expanded="false" />
+            <element signature="e#14575#14576#0" expanded="false" />
+            <element signature="e#14617#14618#0" expanded="false" />
+            <element signature="e#14677#14678#0" expanded="false" />
+            <element signature="e#14743#14744#0" expanded="false" />
+            <element signature="e#14794#14795#0" expanded="false" />
+            <element signature="e#14825#14826#0" expanded="false" />
+            <element signature="e#15580#15581#0" expanded="false" />
+            <element signature="e#15632#15633#0" expanded="false" />
+            <element signature="e#15677#15678#0" expanded="false" />
+            <element signature="e#15724#15725#0" expanded="false" />
+            <element signature="e#16151#16152#0" expanded="false" />
+            <element signature="e#16198#16199#0" expanded="false" />
+            <element signature="e#16230#16231#0" expanded="false" />
+            <element signature="e#16272#16273#0" expanded="false" />
+            <element signature="e#16305#16306#0" expanded="false" />
+            <element signature="e#16348#16349#0" expanded="false" />
+            <element signature="e#16389#16390#0" expanded="false" />
+            <element signature="e#16449#16450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="742" column="31" selection-start-line="742" selection-start-column="31" selection-end-line="742" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProducerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BatchProducerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1773#1789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsumerGroupApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1475724054805" expanded="true" signature="1707:1918" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
