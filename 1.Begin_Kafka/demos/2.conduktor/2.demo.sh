@@ -7,3 +7,4 @@ Topic: demo_java	TopicId: Lkw-oEQiQXqJlS8xWwH1tg	PartitionCount: 3	ReplicationFa
 	Topic: demo_java	Partition: 1	Leader: 0	Replicas: 0	Isr: 0
 	Topic: demo_java	Partition: 2	Leader: 0	Replicas: 0	Isr: 0
 bahrathkumaraju@Bahrathkumarajus-MacBook-Pro ~ %
+
