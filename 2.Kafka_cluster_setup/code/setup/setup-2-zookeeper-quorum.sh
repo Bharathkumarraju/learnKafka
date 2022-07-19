@@ -1,7 +1,6 @@
 #!/bin/bash
 # create data dictionary for zookeeper
-sudo mkdir -p /data/zookeeper
-sudo chown -R ubuntu:ubuntu /data/
+sudo mkdir -p /data/zookeeper ; sudo chown -R ubuntu:ubuntu /data/
 # declare the server's identity
 echo "1" > /data/zookeeper/myid
 # edit the zookeeper settings

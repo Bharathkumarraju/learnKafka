@@ -18,7 +18,7 @@ nano config/server.properties
 bin/kafka-server-start.sh config/server.properties
 
 # Install Kafka boot scripts
-sudo nano /etc/init.d/kafka
+sudo vim /etc/init.d/kafka
 sudo chmod +x /etc/init.d/kafka
 sudo chown root:root /etc/init.d/kafka
 # you can safely ignore the warning
@@ -31,10 +31,26 @@ nc -vz localhost 9092
 # look at the logs
 cat /home/ubuntu/kafka/logs/server.log
 # make sure to fix the __consumer_offsets topic
-bin/kafka-topics.sh --zookeeper zookeeper1:2181/kafka --config min.insync.replicas=1 --topic __consumer_offsets --alter
+
+
+bin/kafka-topics.sh --bootstrap-server=localhost:9092 --list
+
+bin/kafka-topics.sh --bootstrap-server=localhost:9092 --create --topic first-topic --replication-factor 1 --partitions 3
+
+
+bin/kafka-topics.sh --bootstrap-server=localhost:9092 --config min.insync.replicas=1 --topic __consumer_offsets --alter
 
 # read the topic on broker 1 by connecting to broker 2!
-bin/kafka-console-consumer.sh --bootstrap-server kafka2:9092 --topic first_topic --from-beginning
+
+
+ubuntu@ip-172-31-9-1:~/kafka$ bin/kafka-topics.sh --bootstrap-server=localhost:9092 --create --topic first-topic --replication-factor 1 --partitions 3
+Created topic first-topic.
+ubuntu@ip-172-31-9-1:~/kafka$ bin/kafka-topics.sh --bootstrap-server=localhost:9092 --list
+first-topic
+ubuntu@ip-172-31-9-1:~/kafka$
+
+
+bin/kafka-console-consumer.sh --bootstrap-server kafka2:9092 --topic first-topic --from-beginning
 
 
 # DO THE SAME FOR BROKER 3
